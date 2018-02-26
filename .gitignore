@@ -1,4 +1,5 @@
-pycache
 data
 experiments/*/tb_logs
 experiments/*/checkpoints
+.DS_Store
+__pycache__
