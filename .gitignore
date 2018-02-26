@@ -1,0 +1,4 @@
+pycache
+data
+experiments/*/tb_logs
+experiments/*/checkpoints

@@ -1,0 +1,1 @@
+{"notes": "", "max_words": 10000, "sequence_length": 20, "rnn_size": 512, "rnn_layers": 3, "epoch": 20, "batch_size": 50}

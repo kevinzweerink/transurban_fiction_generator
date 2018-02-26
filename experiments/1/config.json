@@ -1,0 +1,1 @@
+{"notes": "Default config", "max_words": 10000, "sequence_length": 20, "rnn_size": 128, "rnn_layers": 1, "epoch": 3, "batch_size": 50}

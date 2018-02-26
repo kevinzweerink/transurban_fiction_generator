@@ -1,0 +1,1 @@
+{"notes": "More layers = longer decrease. Three wasn't enough, jacking it up to 8 to see what happens.", "max_words": 10000, "sequence_length": 20, "rnn_size": 128, "rnn_layers": 8, "epoch": 13, "batch_size": 50}
